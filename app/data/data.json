@@ -1,0 +1,132 @@
+{
+    "Admin": [
+        {
+            "role": "admin",
+            "prenom": "sidy",
+            "nom": "fall",
+            "matricule": "8181",
+            "gmail": "sidy@gmail.com",
+            "password": "passer123",
+            "ref": "dev-web"
+        }
+    ],
+    "Apprenant": [
+        {
+            "role": "apprenant",
+            "prenom": "papa",
+            "nom": "fall",
+            "matricule": "1999",
+            "gmail": "papa@gmail.com",
+            "password": "passer123",
+            "ref": "dev-web",
+            "promo": "promotion 2025"
+        }
+    ],
+    "Vigile": [
+        {
+            "role": "vigile",
+            "prenom": "mor",
+            "nom": "diouf",
+            "matricule": "4444",
+            "gmail": "vigile@gmail.com",
+            "password": "passer123"
+        }
+    ],
+    "Promotion": [
+        {
+            "MatriculePromo": "Promotion 2025",
+            "filiere": "hackeuse",
+            "photoPromo": "\/2025.1.jpg",
+            "debut": "2025-02-06",
+            "fin": "2025-11-17",
+            "etat": "inactive",
+            "nb_apprenants": 156,
+            "referentiels": [
+                "dev-web",
+                "hackeuse"
+            ]
+        },
+        {
+            "MatriculePromo": "Promotion 2040",
+            "filiere": "dev-web",
+            "photoPromo": "\/assets\/images\/internet.jpg",
+            "debut": "21\/04\/2040",
+            "fin": "21\/04\/2041",
+            "etat": "inactive"
+        },
+        {
+            "MatriculePromo": "Promotion 2060",
+            "filiere": "dev-web",
+            "photoPromo": "\/assets\/images\/applicationweb.jpg",
+            "debut": "18\/04\/2060",
+            "fin": "18\/04\/2061",
+            "etat": "inactive"
+        },
+        {
+            "MatriculePromo": "Promotion 2039",
+            "filiere": "dev-web",
+            "photoPromo": "\/assets\/images\/diff\u00e9rence.jpeg",
+            "debut": "18\/04\/2039",
+            "fin": "18\/05\/2039",
+            "etat": "inactive"
+        },
+        {
+            "MatriculePromo": "Promotion 2026",
+            "filiere": "dev-web",
+            "photoPromo": "\/assets\/images\/internet.jpg",
+            "debut": "18\/04\/2026",
+            "fin": "18\/09\/2026",
+            "etat": "inactive"
+        },
+        {
+            "MatriculePromo": "Promotion 2028",
+            "filiere": "dev-web",
+            "photoPromo": "\/assets\/images\/internet.jpg",
+            "debut": "18\/04\/2028",
+            "fin": "18\/04\/2028",
+            "etat": "inactive"
+        }
+    ],
+    "Referentiels": [
+        {
+            "Nom": "Dev-Web",
+            "NombresModule": 8,
+            "NombresApprenant": 50,
+            "Description": "Contre-indices de synth\u00e9tique, le r\u00e9f\u00e9rence digital pathique...",
+            "PhotoRef": "\/devweb.jpeg",
+            "statut": "inactive"
+        },
+        {
+            "Nom": "Ref-digital",
+            "NombresModule": 8,
+            "NombresApprenant": 50,
+            "Description": "Contre-indices de synth\u00e9tique, le r\u00e9f\u00e9rence digital pathique...",
+            "PhotoRef": "\/refdig.jpeg",
+            "statut": "inactive"
+        },
+        {
+            "Nom": "hackeuse",
+            "NombresModule": 8,
+            "NombresApprenant": 50,
+            "Description": "Contre-indices de synth\u00e9tique, le r\u00e9f\u00e9rence digital pathique...",
+            "PhotoRef": "\/assistant.jpeg",
+            "statut": "inactive"
+        },
+        {
+            "Nom": "dev-data",
+            "NombresModule": 8,
+            "NombresApprenant": 50,
+            "Description": "Contre-indices de synth\u00e9tique, le r\u00e9f\u00e9rence digital pathique...",
+            "PhotoRef": "\/data.jpeg",
+            "statut": "inactive"
+        },
+        {
+            "Nom": "Dev-Web",
+            "NombresModule": 8,
+            "NombresApprenant": 50,
+            "Description": "Contre-indices de synth\u00e9tique, le r\u00e9f\u00e9rence digital pathique...",
+            "PhotoRef": "\/devweb.jpeg",
+            "statut": "inactive"
+        }
+    ]
+}
