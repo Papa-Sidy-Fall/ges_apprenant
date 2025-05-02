@@ -70,14 +70,7 @@
             "fin": "18\/05\/2039",
             "etat": "inactive"
         },
-        {
-            "MatriculePromo": "Promotion 2026",
-            "filiere": "dev-web",
-            "photoPromo": "\/assets\/images\/internet.jpg",
-            "debut": "18\/04\/2026",
-            "fin": "18\/09\/2026",
-            "etat": "inactive"
-        },
+    
         {
             "MatriculePromo": "Promotion 2028",
             "filiere": "dev-web",
@@ -86,6 +79,7 @@
             "fin": "18\/04\/2028",
             "etat": "inactive"
         }
+   
     ],
     "Referentiels": [
         {
