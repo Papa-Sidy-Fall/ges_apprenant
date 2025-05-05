@@ -5,8 +5,8 @@
             "prenom": "sidy",
             "nom": "fall",
             "matricule": "8181",
-            "gmail": "sidy@gmail.com",
-            "password": "passer123",
+            "gmail": "admin",
+            "password": "admin",
             "ref": "dev-web"
         }
     ],
